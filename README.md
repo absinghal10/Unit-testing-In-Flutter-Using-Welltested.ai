@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Please replace your API Key in .env file
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
